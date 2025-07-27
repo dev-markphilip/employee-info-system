@@ -2,6 +2,8 @@
 
 ## Overview
 A prototype system to track employee details, training records, and seminar participation across various units.
+<img width="689" height="337" alt="image" src="https://github.com/user-attachments/assets/87a79d8c-bbdb-4699-ba1f-1234faa80a85" />
+
 
 ## Tech Stack
 - PHP
