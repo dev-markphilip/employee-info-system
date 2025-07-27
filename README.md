@@ -19,3 +19,5 @@ A prototype system to track employee details, training records, and seminar part
 ## Outcome
 - Enabled annual HR reporting for development tracking
 - Promoted visibility into employee learning progress
+
+> **Note**: Source code not uploaded due to company confidentiality.
